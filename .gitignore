@@ -1,0 +1,9 @@
+target/
+data/scores_*.csv
+analysis/pipeline-scripts/source-code-lines/
+aws/fault-localization.pem
+killmap/bin/
+__pycache__/
+*.py[cod]
+*$py.class
+defects4j/
