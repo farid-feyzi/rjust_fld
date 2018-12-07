@@ -1,5 +1,5 @@
-This repository has been forked from https://bitbucket.org/rjust/fault-localization-data/overview
-For analysis data and results visit http://bit.ly/pr_research_spreadsheet
+This repository has been forked from https://bitbucket.org/rjust/fault-localization-data/overview .
+For analysis data and results visit http://bit.ly/pr_research_spreadsheet .
 Change sheets from the bottom bar for different results. 
 
 # Fault-localization-data repository
